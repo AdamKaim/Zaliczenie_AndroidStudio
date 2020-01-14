@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Przypominajka</string>
+    <string name="no_cardetails">Kliknij przycisk poniżej, aby rozpocząć tworzenie przypomnienia!</string>
+    <string name="title_activity_add_reminder">Dodaj Przypomnienie</string>
+    <string name="title_activity_edit_reminder">Edytuj Przypomnienie</string>
+    <string name="title_activity_licenses">Pozwolenie</string>
+
+    <string name="add_reminder">Przypomnienie</string>
+    <string name="details">Detale</string>
+    <string name="date">Data</string>
+    <string name="time">Czas</string>
+    <string name="repeat">Powtórzenie</string>
+    <string name="repeat_off">Wyłączenie</string>
+    <string name="repeat_no">Okres Powtarzania</string>
+    <string name="repeat_type">Typ Powtarzania</string>
+
+    <string name="action_discard_reminder">Usunięcie Przypomnienia</string>
+    <string name="action_save_reminder">Zapisanie Przypomnienia</string>
+
+    <string name="editor_activity_title_new_reminder">Dodaj szczegóły przypomnienia</string>
+    <string name="editor_activity_title_edit_reminder">Edytuj przypomnienie</string>
+    <string name="unsaved_changes_dialog_msg">Odrzuć zmiany i zakończ edycję?</string>
+    <string name="discard">Odrzucać</string>
+
+    <string name="keep_editing">Kontynuuj edycję</string>
+    <string name="delete_dialog_msg">Usunąć to przypomnienie?</string>
+
+    <string name="delete">Usuń</string>
+
+    <string name="cancel">Zamknij</string>
+    <string name="editor_delete_reminder_successful">Przypomnienie zostało usunięte</string>
+
+    <string name="editor_delete_reminder_failed">Błąd podczas usuwania przypomnienia</string>
+
+    <string name="editor_insert_reminder_successful">Przypomnienie zapisane </string>
+
+    <string name="editor_insert_reminder_failed">Błąd podczas zapisywania przypomnienia </string>
+
+    <string name="editor_update_reminder_successful">Przypomnienie zaktualizowane</string>
+
+    <string name="editor_update_reminder_failed">Błąd podczas aktualizacji przypomnienia</string>
+
+    <string name="reminder_title">Przypomnienie</string>
+</resources>
